@@ -1,5 +1,8 @@
 _repo: The-life-and-times-of-the-Rev-John-Wesley-Vol-II-of-3-b-Founder-of-the-Methodists_71130
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71130-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Tyerman, L. (Luke)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '42671'
     url: http://www.gutenberg.org/2009/agents/42671
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71130#The-life-and-times-of-the-Rev-John-Wesley-Vol-II-of-3-b-Founder-of-the-Methodists
 gutenberg_issued: '2023-07-06'
 identifiers:
   gutenberg: '71130'
